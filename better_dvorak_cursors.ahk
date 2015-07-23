@@ -1,0 +1,9 @@
+^a::Send, {Home}
+^e::Send, {End}
+^b::Send, {Backspace}
+^r::Send, {Del}
+^m::Send, {Enter}
+^d::Send, {Left}
+^h::Send, {Down}
+^t::Send, {Up}
+^n::Send, {Right}
