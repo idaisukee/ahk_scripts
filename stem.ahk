@@ -1,0 +1,2 @@
+#Include better_dvorak_main.ahk
+#Include better_dvorak_cursors_with_henkan_key.ahk
