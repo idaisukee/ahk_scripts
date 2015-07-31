@@ -6,6 +6,8 @@
 vkA2 & w::Send, ^c
 vkA2 & e::Send, ^x
 vkA2 & r::Send, ^v
+vkA2 & @::Send, ^z
+
 vkA2 & .::Send, {PgDn}
 ;;{Shift} & vkA2 & .::Send, {PgUp}
 vkA0 & vkA2 & .::Send, {PgUp}
