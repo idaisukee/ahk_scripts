@@ -10,6 +10,7 @@ vkA2 & .::Send, {PgDn}
 vkA0 & vkA2 & .::Send, {PgUp}
 vkA1 & vkA2 & .::Send, {PgUp}
 ;;vkA2 & /::Send, !{vkA5}
+
 vkA2 & /::Send, {vkF3sc029} ;;;  zenkaku/hankaku
 
 
