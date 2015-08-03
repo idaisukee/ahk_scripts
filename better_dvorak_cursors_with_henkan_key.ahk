@@ -1,5 +1,5 @@
 vkA2 & a::Send, {Home}
-vkA2 & d::Send, {End}
+vkA2 & f::Send, {End}
 vkA2 & n::Send, {Backspace}
 vkA2 & o::Send, {Del}
 vkA2 & m::Send, {Enter}
