@@ -10,8 +10,8 @@ vkA2 & .::Send, {PgDn}
 ;;{Shift} & vkA2 & .::Send, {PgUp}
 ;;vkA0 & vkA2 & .::Send, {PgUp}
 ;;vkA1 & vkA2 & .::Send, {PgUp}
-vkA2 & vkA1::Return
-vkA2 & vkA1 & vk56::Send, {PgUp}
+;;vkA2 & vkA1::Return
+;;vkA2 & vkA1 & vk56::Send, {PgUp}
 ;;vkA1 & vkA2 & vk56::Send, {PgUp}
 ;;vkA2 & .::Send, {PgUp}
 ;;vkA2 & /::Send, !{vkA5}
@@ -21,8 +21,12 @@ vkA2 & d::Send, {PgUp}
 
 vkA2 & /::Send, {vkF3sc029} ;;;  zenkaku/hankaku
 
+;;vkA2 & 3::AltTabMenu
 
 
+vkA2 & Space::
+  Value:=1
+Return
 
 
 #IfWinNotActive
