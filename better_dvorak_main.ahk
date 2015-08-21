@@ -68,8 +68,6 @@ $+vkDB::Send, {+}
 
 ;; the third row on your keyboard
 
-;;vkA2 Ctrl
-
 $vkBA::Send, -
 $+vkBA::Send, _
 
