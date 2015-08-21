@@ -43,8 +43,8 @@ $+7::Send, &
 $+8::Send, *
 $+9::Send, `(
 $+0::Send, `)
-;;$vk2E::Send, [
-;;$+vk2E::Send, |
+
+
 $-::Send, [
 $+-::Send, {{}
 $vkDE::Send, ]
