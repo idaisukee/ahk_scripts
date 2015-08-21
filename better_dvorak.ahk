@@ -58,9 +58,9 @@ n::b
 
 ;;; the first row on your keyboard
 
-$+vk32::Send, @
-$+vk33::Send, {#}
-$+vk34::Send, $
+$+2::Send, @
+$+3::Send, {#}
+$+4::Send, $
 $+5::Send, `%
 $+6::Send, {^}
 $+7::Send, &
