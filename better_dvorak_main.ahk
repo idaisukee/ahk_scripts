@@ -47,17 +47,19 @@ $+0::Send, `)
 
 $-::Send, [
 $+-::Send, {{}
+
 $^::Send, ]
 $+^::Send, {}}
+
 $vkDD::Send, \
 $+vkDD::Send, |
+
 $vkF4::Send, ``
 $+vkF4::Send, ~
 
-
 ;; the second row on your keyboard
 
-$+vk51::Send, "
+$+q::Send, "
 $vkC0::Send, /
 $+vkC0::Send, ?
 $vkDB::Send, =
