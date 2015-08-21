@@ -48,7 +48,7 @@ $+0::Send, `)
 $-::Send, [
 $+-::Send, {{}
 $^::Send, ]
-$+vkDE::Send, {}}
+$+^::Send, {}}
 $vkDD::Send, \
 $+vkDD::Send, |
 $vkF4::Send, ``
