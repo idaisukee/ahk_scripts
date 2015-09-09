@@ -5,4 +5,4 @@ sc07B::LCtrl
 ;; RAlt
 ;; RWin
 ;; RShift
-;; RCtrl
+sc079::RCtrl
