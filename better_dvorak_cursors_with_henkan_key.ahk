@@ -8,5 +8,3 @@ vkA2 & j::Send, {Down}
 vkA2 & k::Send, {Up}
 vkA2 & l::Send, {Right}
 vkA2 & g::Send, {Tab}
-
-vk1C::Ctrl
