@@ -1,7 +1,7 @@
-#Include better_dvorak_main.ahk
+#Include alpha.ahk
+#Include num.ahk
 
 #IfWinNotActive ahk_class Emacs
-;;;  #Include disable_all_keys_with_3a.ahk
   #Include better_dvorak_cursors_with_henkan_key.ahk
 #IfWinNotActive
 
