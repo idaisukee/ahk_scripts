@@ -2,7 +2,6 @@
 
 
 
-;;; the first row on your keyboard
 
 $+2::Send, @
 $+3::Send, {#}
