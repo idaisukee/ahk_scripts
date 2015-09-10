@@ -1,24 +1,17 @@
 $-::Send, [
-$+-::Send, {{}
+$+-::Send, {{} ;; operative
 
-;;$^::Send, ]
-;;$+^::Send, {}}
-
-;; {^}::{]}
-$=::Send, `]
-$+=::Send, `}
+;;$=::Send, `] ;; operative
+$=::Send, {]} ;; operative
+$+=::Send, {}} ;; operative
 
 $[::Send, /
 $+[::Send, ?
 
 $]::Send, =
-;;$+]::Send, {+
+;; $+]::Send, + ;; inoperative
+;; $+]::Send, `+ ;; inoperative
+$+]::Send, {+} ;; operative
 
-
-$+q::Send, " ;"
-
-
-
-
-
-
+$'::Send, -
+$+'::Send, _
