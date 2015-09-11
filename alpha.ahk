@@ -20,7 +20,15 @@ k::t
 l::n
 `;::s
 
-z::`;
+z::`; ;; operative
+;; +$z::Send, `: ;; inoperative
+;; +$z::Send, :
+;; $+z::Send, : inoperative
+;; $+z::Send, {:} ; inoperative
++$z::SendInput, :
+
+;; z::SC027 ;; operative
+;; +z::+SC027 ;; inoperative
 x::q
 c::j
 v::k
