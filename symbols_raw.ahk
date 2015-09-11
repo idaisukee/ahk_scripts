@@ -37,7 +37,7 @@ $+[::Send, {+}
 ;; $:::Send, `- ;; inoperative
 ;; :::- ;; inoperative
 ;; :::Send, A ;; operative
-:::Send, - ;; operative
+;;:::Send, - ;; operative
 ;; $:::SendInput, - ;; inoperative
 
 ;; $:::Send, - ;; inoperative 
