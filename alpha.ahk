@@ -25,7 +25,7 @@ l::n
 ;; +$z::Send, :
 ;; $+z::Send, : inoperative
 ;; $+z::Send, {:} ; inoperative
-+$z::SendInput, :
+;;+$z::SendInput, :
 
 ;; z::SC027 ;; operative
 ;; +z::+SC027 ;; inoperative
