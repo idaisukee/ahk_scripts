@@ -20,7 +20,7 @@ k::t
 l::n
 `;::s
 
-z::`; ;; operative
+;;z::`; ;; operative
 ;; +$z::Send, `: ;; inoperative
 ;; +$z::Send, :
 ;; $+z::Send, : inoperative
