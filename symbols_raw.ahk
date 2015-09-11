@@ -52,3 +52,12 @@ $+[::Send, {+}
 ;;$+'::Send, _
 
 
+$vk5Asc020::Send, `;
+$+vk5Asc020::Send, `:
+$vkBAsc028::Send, -
+$+vkBAsc028::Send, _
+$vk51sc010::Send, '
+$+vk51sc010::Send, " ; "
+
+$sc029::Send, `` ;; if you s/sc029/vkE3sc029/g, it will occur an error.
+$+sc029::Send, ~
