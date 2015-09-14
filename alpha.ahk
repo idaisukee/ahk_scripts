@@ -9,7 +9,7 @@ $i::c
 $o::r
 $p::l
 
-$;a::a
+;a::a
 $s::o
 $d::e
 $f::u
@@ -20,12 +20,12 @@ $k::t
 $l::n
 $`;::s
 
-$;;z::`; ;; operative
-$;; +$z::Send, `: ;; inoperative
-$;; +$z::Send, :
-$;; $+z::Send, : inoperative
-$;; $+z::Send, {:} ; inoperative
-$;;+$z::SendInput, :
+;;z::`; ;; operative
+;; +$z::Send, `: ;; inoperative
+;; +$z::Send, :
+;; $+z::Send, : inoperative
+;; $+z::Send, {:} ; inoperative
+;;+$z::SendInput, :
 
 ;; z::SC027 ;; operative
 ;; +z::+SC027 ;; inoperative
@@ -34,7 +34,7 @@ $c::j
 $v::k
 $b::x
 $n::b
-$;m::m
+;m::m
 $,::w
 $.::v
 $/::z
