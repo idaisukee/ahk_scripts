@@ -1,16 +1,25 @@
-;;$+vkDD::Send, |
+$vkBDsc00C::Send, `[
+$+vkBDsc00C::Send, {{}
+$vkBBsc00D::Send, `]
+$+vkBBsc00D::Send, {}}
 
-$vkF4::Send, ``
-$+vkF4::Send, ~
-;; $vkC0::Send, /
+$vk51sc010::Send, '
+$+vk51sc010::Send, "
+$vkDBsc01A::Send, /
+$+vkDBsc01A::Send, ?
+$vkDDsc01B::Send, =
+$+vkDDsc01B::Send, {+}
 
-;;$sc00D::Send, /
-;;$+vkC0::Send, ?
-;;$vkDB::Send, =
-;;$+vkDB::Send, {+}
-;;$vkBA::Send, -
-;;$+vkBA::Send, _
-$sc028::Send, -
-;;$+vkBA::Send, _
-$+sc028::Send, _
-$+vk5A::Send, `:
+$vkBAsc027::Send, s
+$+vkBAsc027::Send, S
+$vkDEsc028::Send, -
+$+vkDEsc028::Send, _
+
+$vk5Asc02C::Send, `;
+$+vk5Asc02C::Send, `:
+$vkBCsc033::Send, w
+$+vkBCsc033::Send, W
+$vkBEsc034::Send, v
+$+vkBEsc034::Send, V
+$vkBFsc035::Send, z
+$+vkBFsc035::Send, Z
