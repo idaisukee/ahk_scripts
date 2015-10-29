@@ -14,12 +14,6 @@ vkA2 & /::Send, {vkF3sc029} ;;;  zenkaku/hankaku
 
 
 
-
-vkA2 & Space::
-  Value:=1
-Return
-
-
 #IfWinNotActive
 
 
