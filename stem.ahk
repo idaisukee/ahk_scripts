@@ -12,6 +12,5 @@
 
 
 #IfWinNotActive ahk_class Emacs
-  #Include cursors.ahk
 	#Include space.ahk
 #IfWinNotActive

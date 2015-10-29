@@ -8,6 +8,10 @@ vkA2 & @::Send, ^z
 
 vkA2 & /::Send, {vkF3sc029} ;;;  zenkaku/hankaku
 
+vkA2 & m::Send, {Enter}
+vkA2 & g::Send, {Tab}
+vkA2 & n::Send, {Backspace}
+vkA2 & o::Send, {Del}
 
 
 #IfWinNotActive
