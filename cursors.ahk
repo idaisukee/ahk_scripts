@@ -8,3 +8,5 @@ vkA2 & j::Send, {Down}
 vkA2 & k::Send, {Up}
 vkA2 & l::Send, {Right}
 vkA2 & g::Send, {Tab}
+vkA2 & s::Send, {PgDn}
+vkA2 & d::Send, {PgUp}

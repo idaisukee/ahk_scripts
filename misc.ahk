@@ -6,10 +6,6 @@ vkA2 & r::Send, ^v
 vkA2 & @::Send, ^z
 
 
-
-vkA2 & s::Send, {PgDn}
-vkA2 & d::Send, {PgUp}
-
 vkA2 & /::Send, {vkF3sc029} ;;;  zenkaku/hankaku
 
 
