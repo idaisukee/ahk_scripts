@@ -13,6 +13,8 @@ vkA2 & g::Send, {Tab}
 vkA2 & n::Send, {Backspace}
 vkA2 & o::Send, {Del}
 
+;;; <^J::Send, !{Tab}
+
 
 #IfWinNotActive
 
