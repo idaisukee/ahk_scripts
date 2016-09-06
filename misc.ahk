@@ -26,3 +26,9 @@ vkA2 & o::Send, {Del}
   vkA2 & v::Send, ^t
   vkA2 & z::Send, ^w
 #IfWinActive
+
+#IfWinActive ahk_exe KeePass.exe
+
+vkA2 & q::Send, ^b
+
+#IfWinActive
