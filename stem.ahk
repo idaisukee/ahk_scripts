@@ -9,6 +9,7 @@
 #Include misc.ahk
 #Include modifier.ahk
 #Include tab.ahk
+#Include ime.ahk
 
 
 #IfWinNotActive ahk_class Emacs
