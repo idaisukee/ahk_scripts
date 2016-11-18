@@ -6,7 +6,7 @@ vkA2 & r::Send, ^v
 vkA2 & @::Send, ^z
 
 
-vkA2 & /::Send, {vkF3sc029} ;;;  zenkaku/hankaku
+;; vkA2 & /::Send, {vkF3sc029} ;;;  zenkaku/hankaku
 
 vkA2 & m::Send, {Enter}
 vkA2 & g::Send, {Tab}
