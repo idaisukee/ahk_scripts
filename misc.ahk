@@ -27,6 +27,17 @@ vkA2 & o::Send, {Del}
   vkA2 & z::Send, ^w
 #IfWinActive
 
+
+
+#IfWinActive ahk_exe firefox.exe
+  vkA2 & x::Send, ^+{Tab}
+  vkA2 & c::Send, ^{Tab}
+  vkA2 & v::Send, ^t
+  vkA2 & z::Send, ^w
+#IfWinActive
+
+
+
 #IfWinActive ahk_exe KeePass.exe
 
 vkA2 & q::Send, ^b
